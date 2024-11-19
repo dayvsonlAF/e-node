@@ -1,0 +1,2 @@
+uuidv4 -> gera id único universal
+@types/express 0> adiciona os tipos do express, para aparecer ao chamar o app

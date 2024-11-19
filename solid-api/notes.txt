@@ -1,0 +1,6 @@
+Video ensinando: https://www.youtube.com/watch?v=vAV4Vy4jfkc&t=5s
+
+A pasta entities/models -> contém os modelos da aplicação
+A pasta repositories -> são classes especificas para fazermos a comunicação entre as funcionalidades da aplicação, com o banco de dados (estrutura que vamos armazenar esses dados)
+A pasta userCases -> deixamos armazenados as funcionalidades/ações/lógica/regra de negócios que o nosso usuário pode fazer
+A pasta providers -> Usada para comunicação com api externas
